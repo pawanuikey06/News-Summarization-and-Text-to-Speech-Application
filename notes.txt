@@ -1,8 +1,0 @@
-project/
-│
-├── app.py                # Main Streamlit/Gradio app
-├── api.py                # FastAPI/Flask API
-├── utils.py              # Utility functions (e.g., scraping, sentiment analysis)
-├── requirements.txt      # Dependencies
-├── README.md             # Documentation
-└── Dockerfile            # For deployment
